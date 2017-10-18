@@ -1,0 +1,32 @@
+{
+  "name": "auto-poster",
+  "version": "1.0.0",
+  "description": "Auto posting script.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gemlorenz10/auto-post.git"
+  },
+  "author": "gem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gemlorenz10/auto-post/issues"
+  },
+  "homepage": "https://github.com/gemlorenz10/auto-post#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "locutus": "^2.0.9",
+    "nightmare": "^2.10.0",
+    "nightmare-upload": "^0.1.1",
+    "yargs": "^1.2.0"
+  },
+  "devDependencies":{
+    "@types/locutus": "0.0.5",
+    "typescript": "2.5.2",
+    "@types/nightmare": "^1.6.36",
+    "@types/node": "7.0.7"  
+  }
+}
