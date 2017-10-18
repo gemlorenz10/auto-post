@@ -23,10 +23,10 @@
     "nightmare-upload": "^0.1.1",
     "yargs": "^1.2.0"
   },
-  "devDependencies":{
+  "devDependencies": {
     "@types/locutus": "0.0.5",
-    "typescript": "2.5.2",
     "@types/nightmare": "^1.6.36",
-    "@types/node": "7.0.7"  
+    "@types/node": "7.0.7",
+    "typescript": "2.5.2"
   }
 }
