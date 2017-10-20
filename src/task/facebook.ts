@@ -7,9 +7,6 @@ const argv = require('yargs').string('category').argv;
 
 const util = new Utility();
 const log = new Log();
-// if (argv.pid === void 0) { console.log('no pid'); process.exit(1); }
-// protocol.set(argv.pid);
-// protocol.send('begin', (new Date).toLocaleTimeString());
 
 class Facebook extends Nightmare {
 
