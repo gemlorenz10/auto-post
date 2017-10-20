@@ -31,6 +31,7 @@
 /connect.lock
 /coverage
 /libpeerconnection.log
+/log
 npm-debug.log
 testem.log
 /typings
@@ -43,4 +44,7 @@ package-lock.json
 # System Files
 .DS_Store
 Thumbs.db
+
+#js
+*.js
 
