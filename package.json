@@ -21,6 +21,7 @@
     "locutus": "^2.0.9",
     "nightmare": "^2.10.0",
     "nightmare-upload": "^0.1.1",
+    "node-cron": "^1.2.1",
     "yargs": "^1.2.0"
   },
   "devDependencies": {
